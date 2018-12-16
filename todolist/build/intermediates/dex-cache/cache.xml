@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\bb8803bb4e29f12d81c3fa0c13009ef058341f97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_1e74cbcf87546ad0cbedb2aca2f72b3bfaa20717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\2810dd1db2c589442afc87d10df726d5326a21f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_aad0ee73198f0691a160bb95c744e10831aa4225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\ccf7166fc8dd7e3f96a5697b2d71259e70ab5c1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_192dcffa5090a2836487564a964d5472eabb0dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\1002ffc3c6c741cd0c149ef0607658947cdba061\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_70e17b95b0201d54cfab513f8dee393def3dbcdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\cba1258882a79c5f5981b6782905a1e376724a05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_82b3d28e72e7cbcd3618009bde05ae9373b1e419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\60492919df1481a46eed3594ab881f0b83e389cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_d2f6f4121438431dd057e43e7aa63fbb854656a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\30cb8cbdba54f7b82ed9fb004590228cb7e8c6f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_98bfadaa09fc10a1124a5f4b2225187e54410389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\64ea25e39facacfa99d3d8d10b5330ec42b68f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_a7f9ecb00188dea5ff3e1a262109193e156bb7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\390c4707817998e63efe42433dc242898cc9e5a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_faba57e8d7c90047757c89b28bd67e541ae951a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6c62176c24695e6e7c35844bfa54c392e937d819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_217672bc6f88c59d0bdf3e8c7949311006d318de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smaiyl\.android\build-cache\19a94789b7d99fbf75811cfed84697a0611120f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Smaiyl\AndroidStudioProjects\Todolist\app\build\intermediates\pre-dexed\debug\classes_b054be1b7e0dd391bf3e10e15afcd6c4060986fb.jar" />
+    </item>
+
+</items>
